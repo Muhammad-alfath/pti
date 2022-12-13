@@ -4,3 +4,5 @@ materi PTI
 2. komponen komputer
 3. sistem bilangan 
 4. konfersi bilangan
+5. aplikasi word 1
+6. aplikasi word 2
